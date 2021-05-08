@@ -1,0 +1,196 @@
+{
+  "cooking_time_min": "15",
+  "directions": {
+    "direction": [
+      {
+        "direction_description": "Rinse 1 can of organic black beans and add to bowl. Chop tomatoes, cilantro, and onions. Crush garlic and mix in a bowl.",
+        "direction_number": "1"
+      },
+      {
+        "direction_description": "Add remaining ingredients, mix in bowl. Squeeze 1 fresh lime over mixture.",
+        "direction_number": "2"
+      },
+      {
+        "direction_description": "Salt and pepper to taste. To add more heat add cayenne pepper to taste.",
+        "direction_number": "3"
+      },
+      {
+        "direction_description": "Serve over salad or my favorite, chop avocado on a plate cover with cooked cauliflower bits then put a cup of this salsa over top and enjoy!",
+        "direction_number": "4"
+      }
+    ]
+  },
+  "ingredients": {
+    "ingredient": [
+      {
+        "food_id": "299727",
+        "food_name": "Black Beans (Canned)",
+        "ingredient_description": "2 cups black beans (canned)",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/generic/black-beans?portionid=334865&portionamount=2.000",
+        "measurement_description": "cup",
+        "number_of_units": "2.000",
+        "serving_id": "334865"
+      },
+      {
+        "food_id": "6138",
+        "food_name": "Tomatoes",
+        "ingredient_description": "2 large whole tomatoes",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/generic/tomatoes-raw?portionid=22906&portionamount=2.000",
+        "measurement_description": "large whole (3\" dia)",
+        "number_of_units": "2.000",
+        "serving_id": "22906"
+      },
+      {
+        "food_id": "6256",
+        "food_name": "Young Green Onions",
+        "ingredient_description": "1 cup chopped young green onions",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/generic/onions-young-green-raw?portionid=24360&portionamount=1.000",
+        "measurement_description": "cup, chopped",
+        "number_of_units": "1.000",
+        "serving_id": "24360"
+      },
+      {
+        "food_id": "36383",
+        "food_name": "Garlic",
+        "ingredient_description": "1 clove garlic",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/usda/garlic?portionid=34170&portionamount=1.000",
+        "measurement_description": "clove",
+        "number_of_units": "1.000",
+        "serving_id": "34170"
+      },
+      {
+        "food_id": "6242",
+        "food_name": "Cilantro",
+        "ingredient_description": "1 bunch cilantro",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/generic/cilantro-raw?portionid=24609&portionamount=1.000",
+        "measurement_description": "bunch",
+        "number_of_units": "1.000",
+        "serving_id": "24609"
+      },
+      {
+        "food_id": "7315459",
+        "food_name": "Organic Coconut Oil",
+        "ingredient_description": "2 1/2 tbsps organic coconut oil",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/kirkland-signature/organic-coconut-oil?portionid=0&portionamount=2.500",
+        "measurement_description": "serving",
+        "number_of_units": "2.500",
+        "serving_id": "0"
+      },
+      {
+        "food_id": "35854",
+        "food_name": "Lime Juice",
+        "ingredient_description": "juice of 1 lime",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/usda/lime-juice?portionid=33148&portionamount=1.000",
+        "measurement_description": "lime yields",
+        "number_of_units": "1.000",
+        "serving_id": "33148"
+      },
+      {
+        "food_id": "33876",
+        "food_name": "Cumin",
+        "ingredient_description": "1/2 tsp cumin",
+        "ingredient_url": "https://www.fatsecret.com/calories-nutrition/usda/cumin?portionid=29583&portionamount=0.500",
+        "measurement_description": "tsp",
+        "number_of_units": "0.500",
+        "serving_id": "29583"
+      }
+    ]
+  },
+  "number_of_servings": "8",
+  "recipe_categories": {
+    "recipe_category": [
+      {
+        "recipe_category_name": "Vegetable",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/ingredients/vegetable/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Garlic",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/ingredients/vegetable/garlic/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Onion",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/ingredients/vegetable/onion/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Tomato",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/ingredients/vegetable/tomato/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Sauces, Condiments & Dressings",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/meal/sauces-condiments-and-dressings/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Condiments",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/meal/sauces-condiments-and-dressings/condiments/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Dairy Free",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/dairy-free/Default.aspx"
+      },
+      {
+        "recipe_category_name": "High Fiber",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/high-fiber/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Low Calorie",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-calorie/Default.aspx"
+      },
+      {
+        "recipe_category_name": "100-200 Calorie",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-calorie/100-200-calorie/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Low Carb",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-carb/Default.aspx"
+      },
+      {
+        "recipe_category_name": "5-10 Net Carbs",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-carb/5-10-net-carbs/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Low Cholesterol",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-cholesterol/Default.aspx"
+      },
+      {
+        "recipe_category_name": "3-5 grams Fat",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-fat/3-5-grams-fat/Default.aspx"
+      },
+      {
+        "recipe_category_name": "Low Sodium",
+        "recipe_category_url": "https://www.fatsecret.com/recipes/collections/nutrition/low-sodium/Default.aspx"
+      }
+    ]
+  },
+  "recipe_description": "For salsa lovers.",
+  "recipe_id": "42288128",
+  "recipe_images": {
+    "recipe_image": "https://m.ftscrt.com/static/recipe/cc69bca1-d030-462e-a05b-74b9aa524d5e.jpg"
+  },
+  "recipe_name": "Black Bean Salsa",
+  "recipe_types": {
+    "recipe_type": "Sauce and Condiment"
+  },
+  "recipe_url": "https://www.fatsecret.com/recipes/42288128-black-bean-salsa/Default.aspx",
+  "serving_sizes": {
+    "serving": {
+      "calcium": "4",
+      "calories": "110",
+      "carbohydrate": "13.69",
+      "cholesterol": "0",
+      "fat": "4.76",
+      "fiber": "5.4",
+      "iron": "10",
+      "monounsaturated_fat": "0.252",
+      "polyunsaturated_fat": "0.157",
+      "potassium": "403",
+      "protein": "4.58",
+      "saturated_fat": "3.824",
+      "serving_size": "1 serving",
+      "sodium": "241",
+      "sugar": "1.68",
+      "trans_fat": "0",
+      "vitamin_a": "8",
+      "vitamin_c": "16"
+    }
+  }
+}
